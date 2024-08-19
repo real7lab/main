@@ -2,13 +2,14 @@
 
 ## About Me
 
-Hello! I'm a `Developer` specializing in `FiveM Bypass Software` and `Discord Bots`. 
-My goal is to create high-quality, practical solutions that benefit the community and enhance user experiences.
+Hi there! I'm a `Developer` with a focus on creating robust `FiveM Bypass Software` and advanced `Discord Bots`. 
+My passion lies in developing high-quality, practical solutions that benefit the community and elevate user experiences.
+
 
 ## What I Do
 
-- **FiveM Bypass Software** 🚗: Developing software to bypass with FiveM Cheats.
-- **Discord Bots** 🤖: Creating advanced Discord bots with the following features:
+- **FiveM Bypass Software** 🚗: Specializing in creating sophisticated bypass software for FiveM.
+- **Discord Bots** 🤖: Building advanced and highly customizable Discord bots with a rich set of features tailored for optimal server management, including:
 
   - **Operational Bot**:
     - **Welcome**: Greet new members with customizable messages.
@@ -40,5 +41,3 @@ Here are some of the projects I'm working on:
 - **Youtube**: [Youtube Channel](https://www.youtube.com/channel/UCq59vylLzR0HPzSZ3Hy6unw)
 - **Twitch**: [Twitch Channel](https://twitch.tv/real7lab)
 - **GitHub**: [Github Account](https://github.com/real7lab)
-
-
